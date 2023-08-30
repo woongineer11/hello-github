@@ -1,1 +1,3 @@
 I am a Master course student.
+Hello, GitHub!
+Hello, git!
